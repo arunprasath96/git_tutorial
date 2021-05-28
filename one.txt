@@ -1,3 +1,2 @@
 0ne.txt file has been added
-and changes done check 
-format some
+and changes done check format
